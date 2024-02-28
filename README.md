@@ -1,2 +1,2 @@
-# Flutter e-Diary for Hostel warden 📖
+# Flutter e-Diary for Hostel Warden 📖
 
